@@ -3,7 +3,5 @@ This is a simple hash cracker program that gives you the ability to crack hashes
 By Using Effincy Ways
 
 ```python
-from tkinter import *
-root = Tk()
-root.mainloop()
+import hashlib
 ```
