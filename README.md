@@ -5,3 +5,5 @@ By Using Effincy Ways
 ```python
 import hashlib
 ```
+# Credit:Pkzoid 🤩
+My Youtube Channel:https://www.youtube.com/channel/UCi9-uAmwqlvN6jfRcanEsuA
